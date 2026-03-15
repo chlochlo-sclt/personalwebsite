@@ -1,0 +1,29 @@
+body {
+
+font-family: Arial, sans-serif;
+text-align: center;
+background-color: #f5f5f5;
+margin: 40px;
+
+}
+
+nav a {
+
+margin: 10px;
+text-decoration: none;
+font-weight: bold;
+
+}
+
+img {
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+button {
+
+padding: 10px 20px;
+font-size: 16px;
+
+}
